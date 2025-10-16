@@ -1,0 +1,43 @@
+ body{
+        background-color: black;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .num-button{
+        height: 48px;
+        width: 48px;
+        border-radius: 32px;
+        font-size: 20px;
+        background-color: rgb(75, 74, 74);
+        color: white;
+        border: none;
+        margin: 2px;
+        padding: 4px;
+      }
+      .clear-button{
+        height: 48px;
+        width: 48px;
+        border-radius: 32px;
+        font-size: 16px;
+        background-color: rgb(75, 74, 74);
+        color: white;
+        border: none;
+        margin: 2px;
+        padding: 4px;
+      }
+      .calc-button{
+        height: 48px;
+        width: 48px;
+        border-radius: 32px;
+        font-size: 16px;
+        background-color: orange;
+        color: white;
+        border: none;
+        margin: 2px;
+        padding: 4px;
+      }
+      .calculation{
+        font-size: 32px;
+        margin-bottom: 8px;
+        
+      }
